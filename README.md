@@ -1,6 +1,6 @@
 # Turborepo starter with NPM
 
-This is an official starter turborepo.
+This is an unofficial Vite + Vue + Turborepo starter repo
 
 ## What's inside?
 
